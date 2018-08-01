@@ -1,6 +1,12 @@
 .blog-entry {
   font-style: italic;
   font-family: sans-serif;
-  color: lightblue;
+  color: blue;
   text-align: center;
+}
+
+.about-me {
+  font-size: small;
+  font-style: italic;
+  color: hotpink;
 }
